@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Javascript
-- 💖 I'm interessed in ilustration, tecnology, games and rollerskating
-- 📫 How to reach me: kessia_carolina@hotmail.com
+- 🌱 Estou atualmente estudando Javascript
+- 💖 Tenho interesse em ilustração, tecnologia, jogos e patinação.
+- 📫 Como me encontrar: kessia_carolina@hotmail.com
 
