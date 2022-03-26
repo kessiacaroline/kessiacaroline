@@ -1,4 +1,4 @@
-## Olá! 👋 eu a Kessia e sou iniciante nesse mundo de programação. 💻
+## Olá! 👋 eu sou a Kessia e sou iniciante nesse mundo de programação. 💻
 
 <!--
 **kessiacaroline/kessiacaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
